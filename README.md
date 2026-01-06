@@ -59,8 +59,8 @@ HTML, CSS, JavaScript
 ---
 
 ## 👤 Author
-**Your Name**  
-Intern / Student Developer
+**Praveen T**  
+Intern / Java Script  Developer
 
 ---
 
